@@ -17,6 +17,16 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Album__c</members>
+        <members>Artist__c</members>
+        <members>GenreAlbum__c</members>
+        <members>Genre__c</members>
+        <members>Playlist_Track__c</members>
+        <members>Playlist__c</members>
+        <members>Song__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
